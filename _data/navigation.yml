@@ -21,9 +21,8 @@ main:
     url: /portfolio/
 
   - title: "Research"
-  url: /research/
+    url: /research/
         
-    
   - title: "CV"
     url: /cv/
     
