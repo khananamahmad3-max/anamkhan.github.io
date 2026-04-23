@@ -5,7 +5,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
 <style>
 .research-grid {
   display: grid;
