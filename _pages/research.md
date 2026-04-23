@@ -11,7 +11,7 @@ My research explores how intelligent systems can better understand and support h
 
 ## 👁️ Gaze & Multimodal Interaction  
 
-![Gaze Interaction](../images/gaze.png)
+![Gaze Interaction](../images/gaze.PNG)
 
 *Eye tracking · Gaze input · Voice interaction · Head movement · Multimodal HCI*
 
@@ -28,7 +28,7 @@ A key contribution of this work is demonstrating how combining gaze and speech c
 
 ## 🧭 Eye–Head Dynamics in XR  
 
-![Eye–Head Dynamics](../images/head.png)
+![Eye–Head Dynamics](../images/head.PNG)
 
 
 *Virtual reality · Eye–head coordination · Hands-free interaction · Attention modeling*
@@ -45,7 +45,7 @@ This work introduces methods for distinguishing between gaze and head intent, mo
 ---
 
 ## 📚 Reading, Note-Taking & Digital Learning  
-![Digital Learning ](../images/reading.png)
+![Digital Learning ](../images/reading.PNG)
 
 *Digital reading · Note-taking · Learning technologies · Comprehension*
 
@@ -62,7 +62,7 @@ A central contribution is the design of systems like **GAVIN**, which integrates
 
 ## 🧠 Physiological & Sensor-Based User Modeling  
 
-![ User Modeling ](../images/physiological.png)
+![ User Modeling ](../images/physiological.PNG)
 
 *Thermal imaging · EDA · Attention · Cognitive modeling · Adaptive systems*
 
@@ -77,7 +77,7 @@ The goal of this research is to enable **adaptive systems that respond intellige
 ---
 
 ## 🎨 Creativity Support Tools 
-![ Creativity Tools ](../images/creativity.png)
+![ Creativity Tools ](../images/creativity.PNG)
 *XR · Creativity support · Intelligent tools · Human–AI collaboration*
 
 My current work at KAIST explores how intelligent systems can support **creativity and expressive work**, particularly in immersive environments. This includes designing tools that augment ideation, collaboration, and creative workflows using AI and XR technologies.
