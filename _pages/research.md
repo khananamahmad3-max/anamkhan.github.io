@@ -28,7 +28,7 @@ A key contribution of this work is demonstrating how combining gaze and speech c
 
 ## 🧭 Eye–Head Dynamics in XR  
 
-<img src="../images/xr.png" width="100%" style="border-radius:12px; margin:10px 0;">
+<img src="../images/head.png" width="100%" style="border-radius:12px; margin:10px 0;">
 
 *Virtual reality · Eye–head coordination · Hands-free interaction · Attention modeling*
 
@@ -45,7 +45,7 @@ This work introduces methods for distinguishing between gaze and head intent, mo
 
 ## 📚 Reading, Note-Taking & Digital Learning  
 
-<img src="../images/learning.png" width="100%" style="border-radius:12px; margin:10px 0;">
+<img src="../images/reading.png" width="100%" style="border-radius:12px; margin:10px 0;">
 
 *Digital reading · Note-taking · Learning technologies · Comprehension*
 
@@ -62,7 +62,7 @@ A central contribution is the design of systems like **GAVIN**, which integrates
 
 ## 🧠 Physiological & Sensor-Based User Modeling  
 
-<img src="../images/physio.png" width="100%" style="border-radius:12px; margin:10px 0;">
+<img src="../images/physiological.png" width="100%" style="border-radius:12px; margin:10px 0;">
 
 *Thermal imaging · EDA · Attention · Cognitive modeling · Adaptive systems*
 
@@ -76,7 +76,7 @@ The goal of this research is to enable **adaptive systems that respond intellige
 
 ---
 
-## 🎨 Current Research Direction  
+## 🎨 Creativity Support Tools 
 
 <img src="../images/creativity.png" width="100%" style="border-radius:12px; margin:10px 0;">
 
