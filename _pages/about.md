@@ -22,34 +22,6 @@ Prior to joining KAIST, I was a Senior Research Associate at Lancaster Universit
 - Intelligent & Adaptive User Interfaces  
 - Educational Technologies  
 
----
-
-## Experience
-
-**Postdoctoral Researcher**  
-MAKE Lab, KAIST (2025–Present)
-
-**Senior Research Associate**  
-Lancaster University (2023–2025)
-
-**Research Assistant**  
-University of Melbourne (2018–2022)
-
----
-
-## Education
-
-**PhD in Engineering (HCI)**  
-University of Melbourne (2018–2022)
-
-**Master of Information Technology**  
-University of Melbourne (2017)
-
-**BSc in Computer Science**  
-National University of Science and Technology, Pakistan (2016)
-
----
-
 ## Links
 
 - [Google Scholar](https://scholar.google.com/citations?user=j5thF_4AAAAJ)  
