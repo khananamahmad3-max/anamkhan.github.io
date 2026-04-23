@@ -12,15 +12,6 @@ I hold a PhD in Human-Computer Interaction from [The University of Melbourne](ht
 
 ---
 
-## Research Interests
-
-- Human-Computer Interaction (HCI)  
-- Artificial Intelligence & Machine Learning  
-- Multimodal Interaction (Gaze, Speech, Sensor Data)  
-- Extended Reality (XR) Interaction  
-- Intelligent & Adaptive User Interfaces  
-- Educational Technologies  
-
 ## Links
 
 - [Google Scholar](https://scholar.google.com/citations?user=j5thF_4AAAAJ)  
