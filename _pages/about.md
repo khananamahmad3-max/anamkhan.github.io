@@ -12,8 +12,3 @@ I hold a PhD in Human-Computer Interaction from [The University of Melbourne](ht
 
 ---
 
-## Links
-
-- [Google Scholar](https://scholar.google.com/citations?user=j5thF_4AAAAJ)  
-- [LinkedIn](https://www.linkedin.com/in/anam-ahmad-khan)  
-- [Download CV](../cv.pdf)
