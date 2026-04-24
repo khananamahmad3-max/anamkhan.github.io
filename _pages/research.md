@@ -117,7 +117,7 @@ Optimised Hands-Free Pointing</a> — <em>ETRA 2024</em></li>
 
 <div style="margin:20px 0;">
   <img src="../images/physiological.PNG"
-       style="display:block; margin:0 auto; width:300px; border-radius:8px;">
+       style="display:block; margin:0 auto; width:500px; border-radius:8px;">
   <div style="text-align:center; margin-top:8px; font-size:0.95em; color:#555;">
     <em>Thermal imaging · EDA · Attention · Cognitive modeling</em>
   </div>
@@ -133,7 +133,7 @@ This work explores how physiological and behavioral signals can be used to infer
  — <em>CHI 2022</em></li>
      <li><a href="https://doi.org/10.3390/s20092546"> Mind Wandering in a Multimodal Reading Setting: Behavior Analysis & Automatic Detection Using Eye-Tracking and an EDA Sensor</a> — <em>Sensors 2022</em></li>
    <li><a href="https://doi.org/10.1145/3351227">Classifying Attention Types with Thermal Imaging and Eye Tracking</a> — <em>IMWUT 2019</em></li>
-</ul>
+
 
 <hr style="margin:40px 0;">
 
