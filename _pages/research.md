@@ -128,11 +128,12 @@ This work explores how physiological and behavioral signals can be used to infer
 
 <p><strong>Key publications</strong></p>
 <ul>
-
   <li><a href="https://doi.org/10.1145/3544548.3580924">HotFoot: Foot-Based User Identification Using Thermal Imaging
  — <em>CHI 2022</em></li>
      <li><a href="https://doi.org/10.3390/s20092546"> Mind Wandering in a Multimodal Reading Setting: Behavior Analysis & Automatic Detection Using Eye-Tracking and an EDA Sensor</a> — <em>Sensors 2022</em></li>
-   <li><a href="https://doi.org/10.1145/3351227">Classifying Attention Types with Thermal Imaging and Eye Tracking</a> — <em>IMWUT 2019</em></li>
+   <li><a href="https://doi.org/10.1145/3351227">Classifying Attention Types with Thermal Imaging and Eye Tracking</a> — 
+     <em>IMWUT 2019</em></li>
+     </ul>
 
 
 <hr style="margin:40px 0;">
