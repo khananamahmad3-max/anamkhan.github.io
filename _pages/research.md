@@ -18,7 +18,7 @@ To address these questions, my work spans <strong>multimodal and implicit intera
 
 <div style="margin:20px 0;">
   <img src="../images/gaze.PNG"
-       style="display:block; margin:0 auto; width:240px; border-radius:8px;">
+       style="display:block; margin:0 auto; width:250px; border-radius:8px;">
   <div style="text-align:center; margin-top:8px; font-size:0.95em; color:#555;">
     <em>Eye tracking · Gaze input · Voice interaction · Head movement · Multimodal HCI</em>
   </div>
@@ -41,7 +41,7 @@ I investigate how multiple input modalities—such as gaze and speech—can be c
 
 <div style="margin:20px 0;">
   <img src="../images/reading.PNG"
-       style="display:block; margin:0 auto; width:240px; border-radius:8px;">
+       style="display:block; margin:0 auto; width:350px; border-radius:8px;">
   <div style="text-align:center; margin-top:8px; font-size:0.95em; color:#555;">
     <em>Digital reading · Note-taking · Learning technologies · Comprehension</em>
   </div>
