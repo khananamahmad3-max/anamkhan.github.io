@@ -5,95 +5,133 @@ permalink: /research/
 author_profile: true
 ---
 
-My research explores how intelligent systems can better understand and support human interaction. I combine insights from human behavior with machine learning and sensing to design interfaces that are adaptive, multimodal, and human-centered.
+<p>
+My research sits at the intersection of <strong>Human-Computer Interaction, Machine Learning, and Sensing</strong>. It is guided by two questions: <em>how can user interfaces be augmented with intelligence to support interaction?</em> and <em>what insights about human behavior can be derived from interaction and sensor data?</em>
+</p>
 
----
+<hr style="margin:40px 0;">
 
-## Gaze & Multimodal Interaction  
+<h2>How can user interfaces be augmented with intelligence to support interaction?</h2>
 
-![Gaze Interaction](../images/gaze.PNG)
+<h3>Gaze &amp; Multimodal Interaction</h3>
 
-*Eye tracking · Gaze input · Voice interaction · Head movement · Multimodal HCI*
+<div style="margin:20px 0;">
+  <img src="../images/gaze.PNG"
+       style="display:block; margin:0 auto; width:240px; border-radius:8px;">
+  <div style="text-align:center; margin-top:8px; font-size:0.95em; color:#555;">
+    <em>Eye tracking · Gaze input · Voice interaction · Head movement · Multimodal HCI</em>
+  </div>
+</div>
 
-I investigate how multiple input modalities—such as gaze, speech, and head movement—can be combined to enable more natural and expressive interaction. Traditional interfaces rely heavily on explicit input (e.g., keyboard and mouse), whereas my work explores **implicit and multimodal interaction**, where systems can infer intent from natural user behavior.
+<p>
+I investigate how gaze, speech, and head movement can be combined to enable more natural and expressive interaction. My work explores implicit and multimodal interaction, where systems infer intent from natural user behavior rather than relying only on explicit input.
+</p>
 
-A key contribution of this work is demonstrating how combining gaze and speech can support **hands-free interaction and implicit workflows**, particularly in tasks like note-taking, programming, and navigation. This line of research contributes to the design of **next-generation interfaces that reduce user effort while increasing interaction richness**.
+<p><strong>Key publications</strong></p>
+<ul>
+  <li>Gaze and speech in multimodal HCI — <em>CHI 2026</em></li>
+  <li>Integrating gaze and speech — <em>CHI 2022</em></li>
+  <li>GAVIN — <em>TOCHI 2021</em></li>
+</ul>
 
-**Key publications**
-- [Gaze and speech in multimodal HCI: A scoping review](https://doi.org/10.1145/3772318.3791662) — *CHI 2026*
-- [Integrating gaze and speech for enabling implicit interactions](https://doi.org/10.1145/3491102.3502134) — *CHI 2022*
-- [GAVIN: Gaze-assisted voice-based implicit note-taking](https://doi.org/10.1145/3453988) — *TOCHI 2021*
+<hr style="margin:40px 0;">
 
+<h3>Reading, Note-Taking &amp; Digital Learning</h3>
 
----
+<div style="margin:20px 0;">
+  <img src="../images/reading.PNG"
+       style="display:block; margin:0 auto; width:240px; border-radius:8px;">
+  <div style="text-align:center; margin-top:8px; font-size:0.95em; color:#555;">
+    <em>Digital reading · Note-taking · Learning technologies · Comprehension</em>
+  </div>
+</div>
 
-## Eye–Head Dynamics in XR  
+<p>
+This research explores how interaction techniques influence reading comprehension, learning, and knowledge retention in digital environments. I study how input modality and attention patterns affect how people process and retain information.
+</p>
 
-![Eye–Head Dynamics](../images/head.PNG)
+<p><strong>Key publications</strong></p>
+<ul>
+  <li>To type or to speak? — <em>CHI 2022</em></li>
+  <li>Modeling task difficulty — <em>IJAIED 2022</em></li>
+  <li>GAVIN — <em>TOCHI 2021</em></li>
+</ul>
 
+<hr style="margin:40px 0;">
 
-*Virtual reality · Eye–head coordination · Hands-free interaction · Attention modeling*
+<h3>Creativity Support Tools</h3>
 
-In immersive environments such as virtual and extended reality, interaction relies heavily on head and eye movement. My research investigates how these modalities **coordinate dynamically** and how this coordination can be leveraged to design efficient, hands-free interaction techniques.
+<div style="margin:20px 0;">
+  <img src="../images/creativity.PNG"
+       style="display:block; margin:0 auto; width:300px; border-radius:8px;">
+  <div style="text-align:center; margin-top:8px; font-size:0.95em; color:#555;">
+    <em>XR · Creativity support · Intelligent tools · Human–AI collaboration</em>
+  </div>
+</div>
 
-This work introduces methods for distinguishing between gaze and head intent, modeling attention shifts, and enabling **adaptive interaction techniques** that respond to user behavior in real time. The goal is to improve usability, reduce physical strain, and enable more fluid interaction in XR systems.
+<p>
+My current work at KAIST explores how intelligent systems can support creativity and expressive work, particularly in immersive environments. This direction extends my prior work toward systems that enhance ideation, collaboration, and human expression.
+</p>
 
-**Key publications**
-- Planned vs. stimulus-driven attention shifts — *ETRA 2026 (R&R)* es. 
-- [Directed or Guided? Classification of Gaze Attention Shifts based on Eye and Head Movement](https://doi.org/10.1145/3655601) — *ETRA 2026*  
-- [GazeSwitch: automatic eye-head mode switching](https://doi.org/10.1145/3655601) — *ETRA 2024*  
-- [Classifying head movements as distinct input modes](https://doi.org/10.1145/3544548.3581201) — *CHI 2023*  
+<p><strong>Emerging work</strong></p>
+<ul>
+  <li>Atomix — <em>C&amp;C 2026 (under review)</em></li>
+  <li>XR-supported creative collaboration — <em>HCI Korea 2026</em></li>
+  <li>XR-based cognitive assistant — <em>HCI Korea 2026</em></li>
+</ul>
 
+<hr style="margin:40px 0;">
 
----
+<h2>What insights about human behavior can be derived from interaction and sensor data?</h2>
 
-## Reading, Note-Taking & Digital Learning  
-![Digital Learning ](../images/reading.PNG)
+<h3>Eye–Head Dynamics in XR</h3>
 
-*Digital reading · Note-taking · Learning technologies · Comprehension*
+<div style="margin:20px 0;">
+  <img src="../images/head.PNG"
+       style="display:block; margin:0 auto; width:300px; border-radius:8px;">
+  <div style="text-align:center; margin-top:8px; font-size:0.95em; color:#555;">
+    <em>Virtual reality · Eye–head coordination · Hands-free interaction · Attention modeling</em>
+  </div>
+</div>
 
-This research explores how interaction techniques influence **reading comprehension, learning, and knowledge retention** in digital environments. My work focuses on understanding how input modality (e.g., typing vs. speaking) and attention patterns affect how users process and retain information.
+<p>
+I investigate how eye and head movements coordinate in immersive environments, and how this can be leveraged for interaction, attention modeling, and adaptive systems.
+</p>
 
-A central contribution is the design of systems like **GAVIN**, which integrates gaze and voice to support note-taking in a way that aligns with natural cognitive processes. This research bridges HCI and educational technology, aiming to design tools that **actively support learning rather than simply digitizing existing workflows**.
+<p><strong>Key publications</strong></p>
+<ul>
+  <li>GazeSwitch — <em>ETRA 2024</em></li>
+  <li>Head movement as input — <em>CHI 2023</em></li>
+  <li>Planned vs. stimulus-driven attention shifts — <em>ETRA 2026 (under review)</em></li>
+</ul>
 
-**Key publications**
-- [To type or to speak? Input modality and comprehension](https://doi.org/10.1145/3491102.3501974) — *CHI 2022*  
-- [Modeling task difficulty in learning environments](https://doi.org/10.1007/s11423-021-10084-1) — *IJAIED 2022*
-- [GAVIN: Gaze-assisted voice-based implicit note-taking](https://doi.org/10.1145/3453988) — *TOCHI 2021*  
+<hr style="margin:40px 0;">
 
----
+<h3>Physiological &amp; Sensor-Based User Modeling</h3>
 
-##  Physiological & Sensor-Based User Modeling  
+<div style="margin:20px 0;">
+  <img src="../images/physiological.PNG"
+       style="display:block; margin:0 auto; width:300px; border-radius:8px;">
+  <div style="text-align:center; margin-top:8px; font-size:0.95em; color:#555;">
+    <em>Thermal imaging · EDA · Attention · Cognitive modeling</em>
+  </div>
+</div>
 
-![ User Modeling ](../images/physiological.PNG)
+<p>
+I explore how physiological signals can be used to infer cognitive states such as attention, cognitive load, and mind wandering, enabling adaptive and intelligent systems.
+</p>
 
-*Thermal imaging · EDA · Attention · Cognitive modeling · Adaptive systems*
+<p><strong>Key publications</strong></p>
+<ul>
+  <li>Thermal + eye tracking for attention — <em>IMWUT 2019</em></li>
+  <li>Mind wandering detection — <em>Sensors 2020</em></li>
+</ul>
 
-I explore how physiological and behavioral signals can be used to infer users’ cognitive and affective states. This includes work with eye tracking, electrodermal activity (EDA), and thermal imaging to detect phenomena such as **attention, cognitive load, and mind wandering**.
+<hr style="margin:40px 0;">
 
-The goal of this research is to enable **adaptive systems that respond intelligently to users’ internal states**, creating interfaces that are not only reactive but also context-aware and supportive.
+<h2>Full Publications</h2>
 
-**Key publications**
-- [Classifying attention using thermal imaging and eye tracking](https://doi.org/10.1145/3351269) — *IMWUT 2019*
-- [Mind wandering detection using multimodal signals](https://doi.org/10.3390/s20092546) — *Sensors 2020*  
-
----
-
-## Creativity Support Tools 
-![ Creativity Tools ](../images/creativity.PNG)
-*XR · Creativity support · Intelligent tools · Human–AI collaboration*
-
-My current work at KAIST explores how intelligent systems can support **creativity and expressive work**, particularly in immersive environments. This includes designing tools that augment ideation, collaboration, and creative workflows using AI and XR technologies.
-
-This direction builds on my prior work in interaction and user modeling, extending it toward systems that not only support efficiency but also **enhance creativity and human expression**.
-
-**Emerging work**
-- XR-based cognitive assistant for interpreting real-world visual media (2026)  
-- XR-supported creative collaboration in music (2026)  
-- Atomix: augmenting brainsketching through generative visual outputs (under review)
-
----
-
-## 🔎 Full Publications
-
-For a complete list of publications, see my [Google Scholar](https://scholar.google.com/citations?user=j5thF_4AAAAJ&hl=en).
+<p>
+For a complete list of publications, see my 
+<a href="https://scholar.google.com/citations?user=j5thF_4AAAAJ&hl=en">Google Scholar</a>.
+</p>
