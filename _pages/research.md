@@ -66,7 +66,7 @@ This work investigates how <strong>input modality</strong>, <strong>task difficu
 
 <div style="margin:20px 0;">
   <img src="../images/creativity.PNG"
-       style="display:block; margin:0 auto; width:300px; border-radius:8px;">
+       style="display:block; margin:0 auto; width:800px; border-radius:8px;">
   <div style="text-align:center; margin-top:8px; font-size:0.95em; color:#555;">
     <em>XR · Creativity support · Intelligent tools · Human–AI collaboration</em>
   </div>
@@ -92,7 +92,7 @@ Bias in eXtended Reality with AI</a> — <em>HCI Korea 2026</em></li>
 
 <div style="margin:20px 0;">
   <img src="../images/head.PNG"
-       style="display:block; margin:0 auto; width:300px; border-radius:8px;">
+       style="display:block; margin:0 auto; width:800px; border-radius:8px;">
   <div style="text-align:center; margin-top:8px; font-size:0.95em; color:#555;">
     <em>Virtual reality · Eye–head coordination · Hands-free interaction · Attention modeling</em>
   </div>
@@ -117,7 +117,7 @@ Optimised Hands-Free Pointing</a> — <em>ETRA 2024</em></li>
 
 <div style="margin:20px 0;">
   <img src="../images/physiological.PNG"
-       style="display:block; margin:0 auto; width:500px; border-radius:8px;">
+       style="display:block; margin:0 auto; width:800px; border-radius:8px;">
   <div style="text-align:center; margin-top:8px; font-size:0.95em; color:#555;">
     <em>Thermal imaging · EDA · Attention · Cognitive modeling</em>
   </div>
