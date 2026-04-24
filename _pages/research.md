@@ -118,7 +118,7 @@ I investigate how eye and head movements coordinate in immersive environments, a
 </div>
 
 <p>
-I explore how physiological signals can be used to infer cognitive states such as attention, cognitive load, and mind wandering, enabling adaptive and intelligent systems.
+I explore how physiological signals can be used to infer cognitive states such as attention and mind wandering, enabling adaptive and intelligent systems.
 </p>
 
 <p><strong>Key publications</strong></p>
