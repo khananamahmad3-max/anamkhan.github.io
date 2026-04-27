@@ -31,9 +31,7 @@ author:
   uri              : # URL
   email            : "anam.khan@kaist.ac.kr" 
   links:
-    - label: "Download CV"
-      icon: "ai ai-cv"
-      url: "/files/anam_cv.pdf"
+  
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=j5thF_4AAAAJ"
@@ -45,7 +43,7 @@ author:
 links:
     - label: "Download CV"
       icon: "ai ai-cv"
-      url: "/anamkhan.github.io/files/anam_cv.pdf"
+      url: "https://khananamahmad3-max.github.io/anamkhan.github.io/files/anam_cv.pdf"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
