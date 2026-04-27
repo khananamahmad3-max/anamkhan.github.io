@@ -7,7 +7,7 @@ author_profile: true
 
 <p>
 My research sits at the intersection of Human-Computer Interaction (HCI) and Applied Machine Learning, guided by two core questions: <em>how can user interfaces be augmented with intelligence to support interaction?</em> and <em>what insights about human behavior can be derived from interaction and sensor data?</em>
-To address these questions, my work spans <strong> multimodal and implicit interaction</strong>, <strong>intelligent interfaces</strong>, <strong>reading and note-taking</strong> in digital environments, <strong>physiological user modeling</strong>, and <strong>creativity support</strong> tools — with the goal of designing systems that are both technically robust and human-centered.
+To address these questions, my work spans <strong> multimodal and implicit interaction</strong>, <strong>intelligent interfaces</strong>, <strong>reading and note-taking</strong> in digital environments, <strong>physiological user modeling</strong>, and <strong>creativity support tools</strong>  — with the goal of designing systems that are both technically robust and human-centered.
 </p>
 
 <hr style="margin:40px 0;">
