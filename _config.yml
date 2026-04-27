@@ -42,7 +42,10 @@ author:
 
 
   # Social media
-
+links:
+    - label: "Download CV"
+      icon: "ai ai-cv"
+      url: "/anamkhan.github.io/files/anam_cv.pdf"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
