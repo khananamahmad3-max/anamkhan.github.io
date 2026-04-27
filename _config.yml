@@ -30,7 +30,7 @@ author:
   employer         : "KAIST"
   uri              : # URL
   email            : "anam.khan@kaist.ac.kr" 
-  links:
+
   
 
   # Academic websites
@@ -42,7 +42,7 @@ author:
   # Social media
 links:
     - label: "Download CV"
-      icon: "ai ai-cv"
+      icon: "fas fa-file-pdf"
       url: "https://khananamahmad3-max.github.io/anamkhan.github.io/files/anam_cv.pdf"
 
 # Publication Category - The following the list of publication categories and their headings
