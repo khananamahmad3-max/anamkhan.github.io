@@ -30,6 +30,10 @@ author:
   employer         : "KAIST"
   uri              : # URL
   email            : "anam.khan@kaist.ac.kr" 
+  links:
+    - label: "Download CV"
+      icon: "fas fa-file-pdf"
+      url: "/files/anam_cv.pdf"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=j5thF_4AAAAJ"
