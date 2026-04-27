@@ -22,7 +22,7 @@ repository               : "khananamahmad3-max/anamkhan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image.PNG"
+  avatar           : "image1.PNG"
   name             : "Anam Ahmad Khan"
   pronouns         : # example: ""  
   bio              : "Researcher in Human-Computer Interaction and AI"
