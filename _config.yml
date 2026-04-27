@@ -32,7 +32,7 @@ author:
   email            : "anam.khan@kaist.ac.kr" 
   links:
     - label: "Download CV"
-      icon: "fas fa-file-pdf"
+      icon: "ai ai-cv"
       url: "/files/anam_cv.pdf"
 
   # Academic websites
