@@ -28,14 +28,14 @@ author:
   bio              : "Researcher in Human-Computer Interaction and AI"
   location         : "Daejeon, South Korea"
   employer         : "KAIST"
-  uri              : "https://khananamahmad3-max.github.io/anamkhan.github.io/files/anam_cv.pdf"
+ 
   email            : "anam.khan@kaist.ac.kr" 
 
   
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=j5thF_4AAAAJ"
-
+  uri              : "https://khananamahmad3-max.github.io/anamkhan.github.io/files/anam_cv.pdf"
   # Repositories and software development
 
 
