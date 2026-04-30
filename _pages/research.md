@@ -56,7 +56,8 @@ This work investigates how <strong>input modality</strong>, <strong>task difficu
 <p><strong>Key publications</strong></p>
 <ul>
   <li><a href="https://doi.org/10.1145/3491102.3501974">To type or to speak? Input modality and comprehension</a> — <em>CHI 2022</em></li>
-  <li><a href="https://doi.org/10.1007/s11423-021-10084-1">Modeling task difficulty in learning environments</a> — <em>IJAIED 2022</em></li>
+  <li><a href="https://doi.org/10.1007/s40593-021-00242-6">How Difficult is the Task for you? Modelling and Analysis of Students' Task Difficulty Sequences in a Simulation-Based POE Environment
+</a> — <em>IJAIED 2022</em></li>
   <li><a href="https://doi.org/10.1145/3453988">GAVIN: Gaze-assisted voice-based implicit note-taking</a> — <em>TOCHI 2021</em></li>
 </ul>
 
